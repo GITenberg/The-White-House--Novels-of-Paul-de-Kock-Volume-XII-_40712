@@ -1,0 +1,27 @@
+_repo: The-White-House--Novels-of-Paul-de-Kock-Volume-XII-_40712
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40712-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kock, Paul de
+    alias: Kock, Charles Paul de
+    birthdate: 1793
+    deathdate: 1871
+    gutenberg_agent_id: '34988'
+    url: http://www.gutenberg.org/2009/agents/34988
+description: ''
+gutenberg_issued: '2012-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: The White House (Novels of Paul de Kock Volume XII)
+url: http://www.gutenberg.org/ebooks/40712
